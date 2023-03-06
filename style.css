@@ -1,0 +1,120 @@
+p{text-align: center;
+    color:white
+}
+h2{text-align: center;
+    color:white
+}
+body{
+    background-size: cover;
+}
+h4{text-align: center;
+color:white;}
+.image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+}
+.image2{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%
+    }
+
+.image3{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+       
+        width:50%
+        }
+        .image4{
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+            width:50%
+            }
+            .navbar-brand{
+                margin-top: 10px;
+                margin-left: 20px;
+             }
+            
+            
+             .navbar-right{
+                position: absolute;top: 0%;
+                right: 5px;
+                margin-top: 5px;
+                }
+            
+              .title{
+                display: inline-block;
+                font-size: 25px;
+                color: white;
+                font-family: initial;
+              }
+            
+              .navbar-nav {
+                list-style-type: none;
+                }
+                li {
+                    float: left;
+                    }
+                
+                  li a {
+                    padding: 20px;
+                    text-decoration: none;
+                    }
+                
+                    .buffer{
+                      padding: 50px;
+                    }
+                    p{
+                      font-size: 30px;
+                      font-family: initial;
+                      color: white;
+                      text-align: center;
+                    }
+                
+                    .btn{
+                     text-align: center;
+                
+                    }
+                
+                    .buffer2{
+                      padding: 150px;
+                
+                    }
+                
+                    button{
+                      background-color: rgb(145, 42, 42);
+                  border: none;
+                  color: white;
+                  padding: 15px 32px;
+                  text-align: center;
+                  text-decoration: none;
+                  display: inline-block;
+                  font-size: 20px;
+                  border-radius: 20px;
+                    }
+                
+                    button:hover{
+                      cursor: pointer;
+                      background-color: rgb(66, 3, 3);
+                    }
+
+
+                    p{font-size: small;}
+
+
+.image5{align-items: center;
+  float: left;;
+}
+  .image25{
+    float: left;
+    padding: 90px;
+  }
+
+  
+
+
